@@ -10,6 +10,13 @@ This Node.js script automates the process of applying for internships on <a href
 - Fills in cover letters
 - Answers assessment questions using self-built functions
 
+## Demo
+
+
+https://github.com/user-attachments/assets/8f0a71f2-ce18-480c-9235-944fa7198f10
+
+
+
 ## Dependencies
 - puppeteer
 

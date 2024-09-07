@@ -8,7 +8,7 @@ This Node.js script automates the process of applying for internships on <a href
 - Searches for internships
 - Applies to internships automatically
 - Fills in cover letters
-- Answers assessment questions using self-built functions
+- Answers dynamic assessment questions using self-built functions
 
 ## Demo
 
